@@ -2,7 +2,7 @@
 
 # SIDEBAR PROJECT
 
-## FULLSTACK PRACTICE PROJECT NO: 5
+## FRONTEND PRACTICE PROJECT NO: 5
 
 1. I used Javascript, Jquery, HTML, CSS to practice my skills.
 
